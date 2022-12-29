@@ -1,10 +1,10 @@
 ﻿#!/bin/sh
 
 #请修改为自己的UUID
-export UUID=f7b279b3-0d72-4ffd-9d41-8c00fc9c2caa
+export UUID=0a11daaf-5377-4c46-9653-fcdf63b06aa5
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=www.holehike.com
+export ProxySite=www.booking.com
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
